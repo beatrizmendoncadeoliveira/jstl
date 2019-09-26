@@ -1,0 +1,15 @@
+ex 6
+ex3
+----
+1 servlet pra tudo
+
+metodo service pega todas as requisicoes 
+ Class for name-instancia objeto na memoria
+a excecao que pode dar é esta classe nao existir
+interface so tem a declaracao da assinatura do metodo	NAO TEM CODIGO DO METODO
+nome
+tipo(retorno)
+parametro
+Criacao de inteface
+implements Tarefa
+tarefa=inteface
